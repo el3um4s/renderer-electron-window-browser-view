@@ -1,7 +1,7 @@
 {
-  "name": "@el3um4s/typescript-npm-package-starter",
-  "version": "1.0.1",
-  "description": "Typescript NPM Package Starter",
+  "name": "@el3um4s/renderer-electron-window-browser-view",
+  "version": "0.0.1",
+  "description": "Allow the renderer to use browserView with ElectronWindow",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/el3um4s/typescript-npm-package-starter.git"
+    "url": "git+https://github.com/el3um4s/renderer-electron-window-browser-view.git"
   },
   "files": [
     "lib/**/*"
@@ -43,9 +43,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/el3um4s/typescript-npm-package-starter/issues"
+    "url": "https://github.com/el3um4s/renderer-electron-window-browser-view/issues"
   },
-  "homepage": "https://github.com/el3um4s/typescript-npm-package-starter#readme",
+  "homepage": "https://github.com/el3um4s/renderer-electron-window-browser-view#readme",
   "devDependencies": {
     "@types/jest": "^28.1.7",
     "@types/node": "^18.7.8",

@@ -11,7 +11,7 @@ Use [@el3um4s/ipc-for-electron](https://www.npmjs.com/package/@el3um4s/ipc-for-e
 To use the package in a project:
 
 ```bash
-npm i @el3um4s/renderer-electron-window-browser-view
+npm i @el3um4s/electron-window
 ```
 
 Then in a file:

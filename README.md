@@ -1,4 +1,4 @@
-# RENDERER for Electron Window: Browser View (NOT YET TESTED)
+# RENDERER for Electron Window: Browser View
 
 Allow the renderer to use browserView with ElectronWindow
 

@@ -1,6 +1,6 @@
 {
   "name": "@el3um4s/renderer-electron-window-browser-view",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Allow the renderer to use browserView with ElectronWindow",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
